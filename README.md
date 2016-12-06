@@ -1,4 +1,4 @@
-# X-Wing Data
+# X-Wing Card Images Data
 
 A collection of card images from [X-Wing: The Miniatures Game](https://www.fantasyflightgames.com/en/products/x-wing/) by [Fantasy Flight Games](http://fantasyflightgames.com/), arranged and named to be compatible with the [XWS format](https://github.com/elistevens/xws-spec).
 
@@ -59,7 +59,7 @@ See the [Releases tab](https://github.com/voidstate/xwing-card-images/releases) 
 
 ## Contributors
 
-- Voidstate (ferg@voidstate.com)
+- Voidstate (https://github.com/voidstate)
 - Andrew Matheny (https://github.com/ajmath)
 
 Initially forked from [guidokessels/xwing-data](https://github.com/guidokessels/xwing-data).
