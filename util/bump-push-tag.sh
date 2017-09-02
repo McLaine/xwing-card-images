@@ -3,4 +3,4 @@
 cd ../
 bower version minor
 git push --follow-tags
-echo 'Bump and push finished'
+echo 'Version bump and Git push finished'
